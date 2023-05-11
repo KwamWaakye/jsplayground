@@ -10,4 +10,4 @@ class Enemy {
       this.items = items;
     }
   }
-  module.exports = Enemy;
+export default Enemy;

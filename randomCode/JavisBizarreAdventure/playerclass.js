@@ -8,4 +8,4 @@ class Player {
       this.gender = gender;
     }
   }
-  module.exports = Player;
+export default Player;
