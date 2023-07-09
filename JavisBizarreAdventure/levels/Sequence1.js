@@ -153,3 +153,5 @@ const Sequence1_2 = async () => {
     chalk.italic("An old pair of weeding gloves, quite itchy to wear in fact.")
   );
 };
+
+const Sequence2 = async () => {}
